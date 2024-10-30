@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Football Predictor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Football Predictor</h1>
+    <form id="prediction-form">
+      <div class="form-group">
+        <label for="homeTeam">Home Team:</label>
+        <input type="text" id="homeTeam" name="homeTeam" required>
+      </div>
+
+      <div class="form-group">
+        <label for="awayTeam">Away Team:</label>
+        <input type="text" id="awayTeam" name="awayTeam" required>
+      </div>
+
+      <div class="form-group">
+        <label for="matchCount">Number of Recent Matches:</label>
+        <input type="number" id="matchCount" name="matchCount" required>
+      </div>
+
+      <button type="submit">Get Prediction</button>
+    </form>
+
+    <div id="predictionResult"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
