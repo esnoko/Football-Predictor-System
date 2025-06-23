@@ -1,0 +1,594 @@
+[
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Nottingham Forest FC",
+    "result": "home win",
+    "date": "2023-08-12T12:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Liverpool FC",
+    "result": "draw",
+    "date": "2023-08-13T15:30:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "West Ham United FC",
+    "awayTeam": "Chelsea FC",
+    "result": "home win",
+    "date": "2023-08-20T15:30:00.000Z",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Crystal Palace FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2023-08-21T19:00:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Luton Town FC",
+    "result": "home win",
+    "date": "2023-08-25T19:00:00.000Z",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Fulham FC",
+    "result": "draw",
+    "date": "2023-08-26T14:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Nottingham Forest FC",
+    "result": "away win",
+    "date": "2023-09-02T14:00:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Manchester United FC",
+    "result": "home win",
+    "date": "2023-09-03T15:30:00.000Z",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Chelsea FC",
+    "result": "draw",
+    "date": "2023-09-17T13:00:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Everton FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2023-09-17T15:30:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Tottenham Hotspur FC",
+    "result": "draw",
+    "date": "2023-09-24T13:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Aston Villa FC",
+    "result": "away win",
+    "date": "2023-09-24T13:00:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2023-09-30T14:00:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 4
+  },
+  {
+    "homeTeam": "Fulham FC",
+    "awayTeam": "Chelsea FC",
+    "result": "away win",
+    "date": "2023-10-02T19:00:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Burnley FC",
+    "awayTeam": "Chelsea FC",
+    "result": "away win",
+    "date": "2023-10-07T14:00:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Manchester City FC",
+    "result": "home win",
+    "date": "2023-10-08T15:30:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Arsenal FC",
+    "result": "draw",
+    "date": "2023-10-21T16:30:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Brentford FC",
+    "result": "away win",
+    "date": "2023-10-28T11:30:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Sheffield United FC",
+    "result": "home win",
+    "date": "2023-10-28T14:00:00.000Z",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Newcastle United FC",
+    "awayTeam": "Arsenal FC",
+    "result": "home win",
+    "date": "2023-11-04T17:30:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Tottenham Hotspur FC",
+    "awayTeam": "Chelsea FC",
+    "result": "away win",
+    "date": "2023-11-06T20:00:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 4
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Burnley FC",
+    "result": "home win",
+    "date": "2023-11-11T15:00:00.000Z",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Manchester City FC",
+    "result": "draw",
+    "date": "2023-11-12T16:30:00.000Z",
+    "homeGoals": 4,
+    "awayGoals": 4
+  },
+  {
+    "homeTeam": "Newcastle United FC",
+    "awayTeam": "Chelsea FC",
+    "result": "home win",
+    "date": "2023-11-25T15:00:00.000Z",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Brentford FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2023-11-25T17:30:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Wolverhampton Wanderers FC",
+    "result": "home win",
+    "date": "2023-12-02T15:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Brighton & Hove Albion FC",
+    "result": "home win",
+    "date": "2023-12-03T14:00:00.000Z",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Luton Town FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2023-12-05T20:15:00.000Z",
+    "homeGoals": 3,
+    "awayGoals": 4
+  },
+  {
+    "homeTeam": "Manchester United FC",
+    "awayTeam": "Chelsea FC",
+    "result": "home win",
+    "date": "2023-12-06T20:15:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Aston Villa FC",
+    "awayTeam": "Arsenal FC",
+    "result": "home win",
+    "date": "2023-12-09T17:30:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Everton FC",
+    "awayTeam": "Chelsea FC",
+    "result": "home win",
+    "date": "2023-12-10T14:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Sheffield United FC",
+    "result": "home win",
+    "date": "2023-12-16T15:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Brighton & Hove Albion FC",
+    "result": "home win",
+    "date": "2023-12-17T14:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Liverpool FC",
+    "awayTeam": "Arsenal FC",
+    "result": "draw",
+    "date": "2023-12-23T17:30:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Wolverhampton Wanderers FC",
+    "awayTeam": "Chelsea FC",
+    "result": "home win",
+    "date": "2023-12-24T13:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Crystal Palace FC",
+    "result": "home win",
+    "date": "2023-12-27T19:30:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "West Ham United FC",
+    "result": "away win",
+    "date": "2023-12-28T20:15:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Luton Town FC",
+    "awayTeam": "Chelsea FC",
+    "result": "away win",
+    "date": "2023-12-30T12:30:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "homeTeam": "Fulham FC",
+    "awayTeam": "Arsenal FC",
+    "result": "home win",
+    "date": "2023-12-31T14:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Fulham FC",
+    "result": "home win",
+    "date": "2024-01-13T12:30:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Crystal Palace FC",
+    "result": "home win",
+    "date": "2024-01-20T12:30:00.000Z",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Nottingham Forest FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2024-01-30T19:30:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Liverpool FC",
+    "awayTeam": "Chelsea FC",
+    "result": "home win",
+    "date": "2024-01-31T20:15:00.000Z",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Wolverhampton Wanderers FC",
+    "result": "away win",
+    "date": "2024-02-04T14:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 4
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Liverpool FC",
+    "result": "home win",
+    "date": "2024-02-04T16:30:00.000Z",
+    "homeGoals": 3,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "West Ham United FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2024-02-11T14:00:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "homeTeam": "Crystal Palace FC",
+    "awayTeam": "Chelsea FC",
+    "result": "away win",
+    "date": "2024-02-12T20:00:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 3
+  },
+  {
+    "homeTeam": "Burnley FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2024-02-17T15:00:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 5
+  },
+  {
+    "homeTeam": "Manchester City FC",
+    "awayTeam": "Chelsea FC",
+    "result": "draw",
+    "date": "2024-02-17T17:30:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Newcastle United FC",
+    "result": "home win",
+    "date": "2024-02-24T20:00:00.000Z",
+    "homeGoals": 4,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Brentford FC",
+    "awayTeam": "Chelsea FC",
+    "result": "draw",
+    "date": "2024-03-02T15:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Sheffield United FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2024-03-04T20:00:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 6
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Brentford FC",
+    "result": "home win",
+    "date": "2024-03-09T17:30:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Newcastle United FC",
+    "result": "home win",
+    "date": "2024-03-11T20:00:00.000Z",
+    "homeGoals": 3,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Burnley FC",
+    "result": "draw",
+    "date": "2024-03-30T15:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Manchester City FC",
+    "awayTeam": "Arsenal FC",
+    "result": "draw",
+    "date": "2024-03-31T15:30:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Luton Town FC",
+    "result": "home win",
+    "date": "2024-04-03T18:30:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Manchester United FC",
+    "result": "home win",
+    "date": "2024-04-04T19:15:00.000Z",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2024-04-06T16:30:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 3
+  },
+  {
+    "homeTeam": "Sheffield United FC",
+    "awayTeam": "Chelsea FC",
+    "result": "draw",
+    "date": "2024-04-07T16:30:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Aston Villa FC",
+    "result": "away win",
+    "date": "2024-04-14T15:30:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Everton FC",
+    "result": "home win",
+    "date": "2024-04-15T19:00:00.000Z",
+    "homeGoals": 6,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Wolverhampton Wanderers FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2024-04-20T18:30:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Chelsea FC",
+    "result": "home win",
+    "date": "2024-04-23T19:00:00.000Z",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Aston Villa FC",
+    "awayTeam": "Chelsea FC",
+    "result": "draw",
+    "date": "2024-04-27T19:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Tottenham Hotspur FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2024-04-28T13:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Tottenham Hotspur FC",
+    "result": "home win",
+    "date": "2024-05-02T18:30:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "AFC Bournemouth",
+    "result": "home win",
+    "date": "2024-05-04T11:30:00.000Z",
+    "homeGoals": 3,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "West Ham United FC",
+    "result": "home win",
+    "date": "2024-05-05T13:00:00.000Z",
+    "homeGoals": 5,
+    "awayGoals": 0
+  },
+  {
+    "homeTeam": "Nottingham Forest FC",
+    "awayTeam": "Chelsea FC",
+    "result": "away win",
+    "date": "2024-05-11T16:30:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "homeTeam": "Manchester United FC",
+    "awayTeam": "Arsenal FC",
+    "result": "away win",
+    "date": "2024-05-12T15:30:00.000Z",
+    "homeGoals": 0,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Chelsea FC",
+    "result": "away win",
+    "date": "2024-05-15T18:45:00.000Z",
+    "homeGoals": 1,
+    "awayGoals": 2
+  },
+  {
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Everton FC",
+    "result": "home win",
+    "date": "2024-05-19T15:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "AFC Bournemouth",
+    "result": "home win",
+    "date": "2024-05-19T15:00:00.000Z",
+    "homeGoals": 2,
+    "awayGoals": 1
+  }
+]
