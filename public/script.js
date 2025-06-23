@@ -1,3 +1,4 @@
+// public/script.js
 document.getElementById('prediction-form').addEventListener('submit', async (e) => {
   e.preventDefault();
 
@@ -13,7 +14,7 @@ document.getElementById('prediction-form').addEventListener('submit', async (e) 
     });
 
     const data = await response.json();
-    console.log("Response Data:", data);
+    console.log("Response Data:", data); // Log the response data for debugging
 
     if (response.ok) {
       document.getElementById('predictionResult').innerHTML = `
